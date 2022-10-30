@@ -21,3 +21,26 @@
             <p style="color:white ;">This is a Photography Website</p>
             <p style="color:white ;">Made By Tanishq Nabar</p>
           </div>
+
+          <div>
+                <footer class="footer">
+                  <div class="container bottom_border">
+                    <div class="row">
+                      <div class=" col-sm-4 col-md col-sm-4  col-12 col">
+                        <h5 class="headin5_amrc col_white_amrc pt2" style="color:gray">Find us</h5>
+                        <p class="mb10">Infinity Pharma Is a Young dynamic organization whose endeavor is to give easy access to organizations with good quality pharmaceutical products, Nutrition supplements, medical equipment and supplies in India.</p>
+                        <p><i class="fa fa-location-arrow"></i> 20/224 Andheri West, Mumbai </p>
+                        <p><i class="fa fa-phone"></i>  +91-9998887770  </p>
+                        <p><i class="fa fa fa-envelope"></i> info@infipharma.com </p>
+                      </div>
+                    </div>
+                  </div>  
+              </div>
+
+
+              *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
